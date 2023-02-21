@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56129838681",
+    "firebase_url": "https://iottic51-default-rtdb.firebaseio.com",
+    "project_id": "iottic51",
+    "storage_bucket": "iottic51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56129838681:android:5baa12b0a32c284fd85b48",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorageupdated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56129838681-689729buq200mnm1kbt97u55tlc5apah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLsPLQFWQi0YigXdTpnndo6FKA4Seydc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56129838681-689729buq200mnm1kbt97u55tlc5apah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
